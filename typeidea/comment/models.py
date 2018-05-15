@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 from django.db import models
-from ..blog.models import Post
+from blog.models import Post
 # Create your models here.
 
 
